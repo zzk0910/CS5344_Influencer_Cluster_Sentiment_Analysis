@@ -1,0 +1,2 @@
+# CS5344_Influencer_Cluster_Sentiment_Analysis
+NUS CS5344 Project
